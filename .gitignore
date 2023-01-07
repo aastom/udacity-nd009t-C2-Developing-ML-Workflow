@@ -1,0 +1,9 @@
+.vscode
+train
+test
+test.lst
+train.lst
+cifar-100-python
+cifar.tar.gz
+data
+cache
