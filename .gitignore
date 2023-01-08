@@ -7,3 +7,4 @@ cifar-100-python
 cifar.tar.gz
 data
 cache
+lambda-deploy
